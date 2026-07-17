@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models
+*.pth
+*.pt
+*.ckpt
+
+# Data
+data/
+datasets/
+
+# Logs
+logs/
+runs/
+
+# OS
+.DS_Store
+Thumbs.db
