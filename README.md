@@ -65,7 +65,7 @@ This project aims to contribute to accessible AI-based medical image analysis by
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Medical-Microscopy-Image-Analysis.git
+git clone https://github.com/ebiasadipro/Medical-Microscopy-Image-Analysis.git
 ```
 
 Install dependencies:
